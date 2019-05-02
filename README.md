@@ -12,6 +12,7 @@ language as input and generates code across programming languages that
 uses the abstracted stack to build interoperable RPC clients and servers.
 
 ![Apache Thrift Layered Architecture](doc/images/thrift-layers.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fthrift.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fthrift?ref=badge_shield)
 
 Thrift makes it easy for programs written in different programming
 languages to share data and call remote procedures.  With support 
@@ -190,3 +191,6 @@ This will run a set of tests that use different language clients and
 servers.
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fthrift.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fthrift?ref=badge_large)
